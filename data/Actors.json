@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"$angel","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"Angel","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$lee","classId":7,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"Lee","nickname":"","note":"","profile":""}
+]
